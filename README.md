@@ -3,8 +3,8 @@ http://opentreeoflife.github.io/SSBworkshop/
 
 
 ```
-    git clone https://github.com/snacktavish/OpenTree_SSB2020.git
-    cd  OpenTree_SSB2020/workbooks
+    git clone https://github.com/McTavishLab/jupyter_OpenTree_tutorials.git
+    cd  jupyter_OpenTree_tutorials0/workbooks
     jupyter notebook
 ```
 
