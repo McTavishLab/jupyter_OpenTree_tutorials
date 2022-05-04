@@ -1,4 +1,4 @@
-Install and setup info at:
+Install and system setup info at:
 http://opentreeoflife.github.io/SSBworkshop/
 
 
