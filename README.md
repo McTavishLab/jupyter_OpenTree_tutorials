@@ -4,7 +4,7 @@ http://opentreeoflife.github.io/SSBworkshop/
 
 ```
     git clone https://github.com/McTavishLab/jupyter_OpenTree_tutorials.git
-    cd  jupyter_OpenTree_tutorials0/workbooks
+    cd  jupyter_OpenTree_tutorials/workbooks
     jupyter notebook
 ```
 
